@@ -1,0 +1,7003 @@
+[
+    {
+        "id": 1,
+        "name": "Cuaderno universitario",
+        "price": 5.99,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 2,
+        "name": "Lápiz HB",
+        "price": 0.99,
+        "stock": 500,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 3,
+        "name": "Bolígrafo azul",
+        "price": 1.49,
+        "stock": 300,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 4,
+        "name": "Regla de plástico",
+        "price": 2.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 5,
+        "name": "Goma de borrar",
+        "price": 0.79,
+        "stock": 400,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 6,
+        "name": "Carpeta de argollas",
+        "price": 3.99,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 7,
+        "name": "Marcador fluorescente",
+        "price": 1.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 8,
+        "name": "Calculadora básica",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 9,
+        "name": "Pegamento en barra",
+        "price": 1.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 10,
+        "name": "Lápices de colores (12 unidades)",
+        "price": 4.49,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 11,
+        "name": "Libreta de notas",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 12,
+        "name": "Cinta adhesiva transparente",
+        "price": 1.29,
+        "stock": 300,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 13,
+        "name": "Tijeras escolares",
+        "price": 2.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 14,
+        "name": "Borrador de pizarra",
+        "price": 1.49,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 15,
+        "name": "Folder de cartón",
+        "price": 2.79,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 16,
+        "name": "Plumón permanente negro",
+        "price": 1.99,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 17,
+        "name": "Papel de colores (50 hojas)",
+        "price": 4.99,
+        "stock": 300,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 18,
+        "name": "Lápices de grafito (12 unidades)",
+        "price": 2.49,
+        "stock": 400,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 19,
+        "name": "Corrector líquido",
+        "price": 2.29,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 20,
+        "name": "Marcador para pizarra blanca",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 21,
+        "name": "Bolígrafos de gel (pack de 6)",
+        "price": 6.99,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 22,
+        "name": "Resaltador amarillo",
+        "price": 1.79,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 23,
+        "name": "Papel cuadriculado (100 hojas)",
+        "price": 3.99,
+        "stock": 300,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 24,
+        "name": "Estuche para lápices",
+        "price": 4.49,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 25,
+        "name": "Cuaderno de dibujo",
+        "price": 5.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 26,
+        "name": "Carpeta de argollas con diseño",
+        "price": 6.49,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 27,
+        "name": "Grapadora metálica",
+        "price": 3.29,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 28,
+        "name": "Portaminas HB",
+        "price": 2.49,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 29,
+        "name": "Pegamento líquido",
+        "price": 1.99,
+        "stock": 300,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 30,
+        "name": "Borrador de lápiz",
+        "price": 0.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 31,
+        "name": "Carpeta de plástico",
+        "price": 2.99,
+        "stock": 300,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 32,
+        "name": "Corrector líquido con pincel",
+        "price": 1.49,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 33,
+        "name": "Portaminas de colores",
+        "price": 1.99,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 34,
+        "name": "Bolígrafos finos (pack de 10)",
+        "price": 4.49,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 35,
+        "name": "Goma de borrar grande",
+        "price": 1.79,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 36,
+        "name": "Estuche para lápices con compartimentos",
+        "price": 3.99,
+        "stock": 300,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 37,
+        "name": "Lápices de colores profesionales (24 unidades)",
+        "price": 7.99,
+        "stock": 400,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 38,
+        "name": "Borradores de formas divertidas",
+        "price": 1.29,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 39,
+        "name": "Set de reglas (15 cm, 30 cm)",
+        "price": 2.79,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 40,
+        "name": "Cinta correctora en forma de ratón",
+        "price": 4.99,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 41,
+        "name": "Lápices de madera (pack de 12)",
+        "price": 3.49,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 42,
+        "name": "Marcadores permanentes de colores",
+        "price": 5.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 43,
+        "name": "Papel kraft (100 hojas)",
+        "price": 2.49,
+        "stock": 300,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 44,
+        "name": "Lápiz mecánico",
+        "price": 1.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 45,
+        "name": "Estuche para bolígrafos",
+        "price": 3.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 46,
+        "name": "Goma de borrar mágica",
+        "price": 2.29,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 47,
+        "name": "Resma de papel A4 (250 hojas)",
+        "price": 4.99,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 48,
+        "name": "Cinta adhesiva de doble cara",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 49,
+        "name": "Portaminas con goma",
+        "price": 2.79,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 50,
+        "name": "Regla de plástico flexible",
+        "price": 1.79,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 51,
+        "name": "Corrector en cinta (pack de 3)",
+        "price": 5.49,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 52,
+        "name": "Marcador para pizarra negra",
+        "price": 3.29,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 53,
+        "name": "Papel de calcar (50 hojas)",
+        "price": 2.49,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 54,
+        "name": "Estuche para lápices de colores",
+        "price": 4.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 55,
+        "name": "Bolígrafo retráctil",
+        "price": 1.99,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 56,
+        "name": "Goma de borrar eléctrica",
+        "price": 8.49,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 57,
+        "name": "Porta documentos de plástico",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 58,
+        "name": "Carpeta de cartón con cierre",
+        "price": 4.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 59,
+        "name": "Resaltadores de colores (pack de 6)",
+        "price": 3.29,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 60,
+        "name": "Caja de lápices de grafito (24 unidades)",
+        "price": 6.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 61,
+        "name": "Pegamento escolar líquido",
+        "price": 2.29,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 62,
+        "name": "Lápiz de dibujo profesional",
+        "price": 4.49,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 63,
+        "name": "Calculadora científica",
+        "price": 9.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 64,
+        "name": "Plumones para pizarra blanca",
+        "price": 5.49,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 65,
+        "name": "Borradores de tinta",
+        "price": 2.49,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 66,
+        "name": "Regla con escuadra",
+        "price": 3.99,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 67,
+        "name": "Goma de borrar magnética",
+        "price": 1.79,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 68,
+        "name": "Carpeta de plástico con elástico",
+        "price": 4.29,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 69,
+        "name": "Plumón para pizarra negra",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 70,
+        "name": "Lápiz de carpintero profesional",
+        "price": 6.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 71,
+        "name": "Bloc de notas con tapa dura",
+        "price": 2.99,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 72,
+        "name": "Caja de lápices de colores acuarelables",
+        "price": 7.49,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 73,
+        "name": "Carpeta de cartón con bolsillo interior",
+        "price": 3.79,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 74,
+        "name": "Portaminas de 0.7 mm",
+        "price": 1.99,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 75,
+        "name": "Plumones para pizarra (pack de 8)",
+        "price": 4.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 76,
+        "name": "Corrector de tinta",
+        "price": 3.49,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 77,
+        "name": "Lápiz con goma",
+        "price": 0.99,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 78,
+        "name": "Borrador de pizarra blanca",
+        "price": 1.79,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 79,
+        "name": "Set de geometría (compás, escuadra, transportador)",
+        "price": 5.99,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 80,
+        "name": "Estuche para lápices de madera",
+        "price": 3.49,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 81,
+        "name": "Papel celofán (pack de 20 hojas)",
+        "price": 2.49,
+        "stock": 250,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 82,
+        "name": "Pizarra magnética con rotuladores",
+        "price": 7.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 83,
+        "name": "Sacapuntas eléctrico",
+        "price": 6.49,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 84,
+        "name": "Borradores para pizarra (pack de 5)",
+        "price": 2.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 85,
+        "name": "Lápices de carpintero (pack de 3)",
+        "price": 4.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 86,
+        "name": "Portaminas con goma incorporada",
+        "price": 3.79,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 87,
+        "name": "Plumón de tinta borrable (pack de 4)",
+        "price": 5.49,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 88,
+        "name": "Pegamento escolar en barra",
+        "price": 1.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 89,
+        "name": "Papel adhesivo para manualidades",
+        "price": 2.99,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 90,
+        "name": "Estuche para rotuladores",
+        "price": 4.29,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 91,
+        "name": "Borradores de figuras divertidas",
+        "price": 1.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 92,
+        "name": "Portaminas de 0.5 mm",
+        "price": 2.49,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 93,
+        "name": "Resma de papel A3 (250 hojas)",
+        "price": 6.99,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 94,
+        "name": "Cinta correctora en forma de lápiz",
+        "price": 3.29,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 95,
+        "name": "Lápices para dibujo artístico (pack de 12)",
+        "price": 8.49,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 96,
+        "name": "Bolígrafo de tinta gel",
+        "price": 2.99,
+        "stock": 250,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 97,
+        "name": "Estuche para marcadores",
+        "price": 4.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 98,
+        "name": "Goma para borrar grande",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 99,
+        "name": "Set de lápices de grafito (HB, B, 2B)",
+        "price": 3.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 100,
+        "name": "Plumón para pizarra blanca",
+        "price": 4.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 101,
+        "name": "Caja de lápices de colores (24 unidades)",
+        "price": 7.99,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 102,
+        "name": "Bolígrafos de colores (pack de 10)",
+        "price": 4.99,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 103,
+        "name": "Plumón para pizarra blanca (pack de 4)",
+        "price": 5.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 104,
+        "name": "Clips metálicos (100 unidades)",
+        "price": 1.29,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 105,
+        "name": "Goma de borrar eléctrica",
+        "price": 9.99,
+        "stock": 50,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 106,
+        "name": "Papel kraft (pack de 50 hojas)",
+        "price": 2.79,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 107,
+        "name": "Estuche para calculadora científica",
+        "price": 6.99,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 108,
+        "name": "Borradores de figuras divertidas (pack de 5)",
+        "price": 3.49,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 109,
+        "name": "Sacapuntas de plástico",
+        "price": 1.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 110,
+        "name": "Cinta correctora en forma de ratón",
+        "price": 4.99,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 111,
+        "name": "Plastilina de colores (pack de 12)",
+        "price": 8.99,
+        "stock": 80,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 112,
+        "name": "Borradores magnéticos",
+        "price": 2.99,
+        "stock": 120,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 113,
+        "name": "Tijeras de precisión",
+        "price": 6.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 114,
+        "name": "Resaltadores de doble punta",
+        "price": 5.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 115,
+        "name": "Porta documentos de plástico",
+        "price": 3.99,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 116,
+        "name": "Papel de regalo (pack de 10 hojas)",
+        "price": 4.29,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 117,
+        "name": "Bloc de notas adhesivas",
+        "price": 2.49,
+        "stock": 250,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 118,
+        "name": "Lápiz mecánico con goma",
+        "price": 1.79,
+        "stock": 180,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 119,
+        "name": "Marcadores de punta fina (pack de 8)",
+        "price": 7.49,
+        "stock": 120,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 120,
+        "name": "Estuche para USB",
+        "price": 3.99,
+        "stock": 300,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 121,
+        "name": "Calculadora de bolsillo",
+        "price": 4.99,
+        "stock": 100,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 122,
+        "name": "Pegamento en barra de colores",
+        "price": 1.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 123,
+        "name": "Set de lápices de carpintero",
+        "price": 8.49,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 124,
+        "name": "Carpeta de plástico con diseño",
+        "price": 3.49,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 125,
+        "name": "Tijeras de seguridad para niños",
+        "price": 2.79,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 126,
+        "name": "Resma de papel A4 (500 hojas)",
+        "price": 9.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 127,
+        "name": "Estuche de marcadores de colores",
+        "price": 6.49,
+        "stock": 100,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 128,
+        "name": "Borradores de formas divertidas (pack de 3)",
+        "price": 1.99,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 129,
+        "name": "Corrector en cinta",
+        "price": 3.29,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 130,
+        "name": "Caja de lápices acuarelables (12 unidades)",
+        "price": 7.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 131,
+        "name": "Portaminas con goma incorporada",
+        "price": 2.49,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 132,
+        "name": "Papel milimetrado (50 hojas)",
+        "price": 4.49,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 133,
+        "name": "Regla transparente de 30 cm",
+        "price": 1.79,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 134,
+        "name": "Carpeta de cartón con cierre",
+        "price": 5.99,
+        "stock": 120,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 135,
+        "name": "Pegamento escolar líquido",
+        "price": 2.29,
+        "stock": 180,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 136,
+        "name": "Lápiz de carpintero",
+        "price": 3.49,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 137,
+        "name": "Goma para borrar grande",
+        "price": 1.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 138,
+        "name": "Plumones para pizarra negra (pack de 4)",
+        "price": 6.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 139,
+        "name": "Tijeras para zurdos",
+        "price": 4.79,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 140,
+        "name": "Libreta con tapa dura",
+        "price": 3.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 141,
+        "name": "Lápices de colores (pack de 24)",
+        "price": 9.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 142,
+        "name": "Borrador en forma de animal",
+        "price": 2.49,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 143,
+        "name": "Estuche para lápices de carpintero",
+        "price": 5.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 144,
+        "name": "Carpeta de cartón con bolsillo interior",
+        "price": 3.79,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 145,
+        "name": "Portaminas de 0.7 mm",
+        "price": 1.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 146,
+        "name": "Plumones para pizarra (pack de 8)",
+        "price": 4.99,
+        "stock": 300,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 147,
+        "name": "Corrector de tinta",
+        "price": 3.49,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 148,
+        "name": "Lápiz con goma",
+        "price": 0.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 149,
+        "name": "Borrador de pizarra blanca",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 150,
+        "name": "Set de geometría (compás, escuadra, transportador)",
+        "price": 5.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 151,
+        "name": "Estuche para lápices de madera",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 152,
+        "name": "Papel celofán (pack de 20 hojas)",
+        "price": 2.49,
+        "stock": 250,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 153,
+        "name": "Pizarra magnética con rotuladores",
+        "price": 7.99,
+        "stock": 300,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 154,
+        "name": "Sacapuntas eléctrico",
+        "price": 6.49,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 155,
+        "name": "Borradores para pizarra (pack de 5)",
+        "price": 2.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 156,
+        "name": "Lápices de carpintero (pack de 3)",
+        "price": 4.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 157,
+        "name": "Portaminas con goma incorporada",
+        "price": 3.79,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 158,
+        "name": "Plumón de tinta borrable (pack de 4)",
+        "price": 5.49,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 159,
+        "name": "Pegamento escolar en barra",
+        "price": 1.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 160,
+        "name": "Papel adhesivo para manualidades",
+        "price": 2.99,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 161,
+        "name": "Estuche para rotuladores",
+        "price": 4.29,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 162,
+        "name": "Borradores de figuras divertidas",
+        "price": 1.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 163,
+        "name": "Portaminas de 0.5 mm",
+        "price": 2.49,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 164,
+        "name": "Resma de papel A3 (250 hojas)",
+        "price": 6.99,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 165,
+        "name": "Cinta correctora en forma de lápiz",
+        "price": 3.29,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 166,
+        "name": "Lápices para dibujo artístico (pack de 12)",
+        "price": 8.49,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 167,
+        "name": "Bolígrafo de tinta gel",
+        "price": 2.99,
+        "stock": 250,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 168,
+        "name": "Estuche para marcadores",
+        "price": 4.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 169,
+        "name": "Goma para borrar grande",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 170,
+        "name": "Set de lápices de grafito (HB, B, 2B)",
+        "price": 3.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 171,
+        "name": "Plumón para pizarra blanca",
+        "price": 4.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 172,
+        "name": "Lápices de colores (pack de 24)",
+        "price": 9.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 173,
+        "name": "Borrador en forma de animal",
+        "price": 2.49,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 174,
+        "name": "Estuche para lápices de carpintero",
+        "price": 5.99,
+        "stock": 100,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 175,
+        "name": "Carpeta de cartón con bolsillo interior",
+        "price": 3.79,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 176,
+        "name": "Portaminas de 0.7 mm",
+        "price": 1.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 177,
+        "name": "Plumones para pizarra (pack de 8)",
+        "price": 4.99,
+        "stock": 300,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 178,
+        "name": "Corrector de tinta",
+        "price": 3.49,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 179,
+        "name": "Lápiz con goma",
+        "price": 0.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 180,
+        "name": "Borrador de pizarra blanca",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 181,
+        "name": "Set de geometría (compás, escuadra, transportador)",
+        "price": 5.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 182,
+        "name": "Estuche para lápices de madera",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 183,
+        "name": "Papel celofán (pack de 20 hojas)",
+        "price": 2.49,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 184,
+        "name": "Pizarra magnética con rotuladores",
+        "price": 7.99,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 185,
+        "name": "Sacapuntas eléctrico",
+        "price": 6.49,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 186,
+        "name": "Borradores para pizarra (pack de 5)",
+        "price": 2.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 187,
+        "name": "Lápices de carpintero (pack de 3)",
+        "price": 4.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 188,
+        "name": "Portaminas con goma incorporada",
+        "price": 3.79,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 189,
+        "name": "Plumón de tinta borrable (pack de 4)",
+        "price": 5.49,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 190,
+        "name": "Pegamento escolar en barra",
+        "price": 1.49,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 191,
+        "name": "Papel adhesivo para manualidades",
+        "price": 2.99,
+        "stock": 300,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 192,
+        "name": "Estuche para rotuladores",
+        "price": 4.29,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 193,
+        "name": "Borradores de figuras divertidas",
+        "price": 1.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 194,
+        "name": "Portaminas de 0.5 mm",
+        "price": 2.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 195,
+        "name": "Resma de papel A3 (250 hojas)",
+        "price": 6.99,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 196,
+        "name": "Cinta correctora en forma de lápiz",
+        "price": 3.29,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 197,
+        "name": "Lápices para dibujo artístico (pack de 12)",
+        "price": 8.49,
+        "stock": 300,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 198,
+        "name": "Bolígrafo de tinta gel",
+        "price": 2.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 199,
+        "name": "Estuche para marcadores",
+        "price": 4.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 200,
+        "name": "Goma para borrar grande",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 201,
+        "name": "Set de lápices de grafito (HB, B, 2B)",
+        "price": 3.49,
+        "stock": 100,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 202,
+        "name": "Plumón para pizarra blanca",
+        "price": 4.49,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 203,
+        "name": "Lápices de colores (pack de 24)",
+        "price": 9.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 204,
+        "name": "Borrador en forma de animal",
+        "price": 2.49,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 205,
+        "name": "Estuche para lápices de carpintero",
+        "price": 5.99,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 206,
+        "name": "Carpeta de cartón con bolsillo interior",
+        "price": 3.79,
+        "stock": 250,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 207,
+        "name": "Portaminas de 0.7 mm",
+        "price": 1.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 208,
+        "name": "Plumones para pizarra (pack de 8)",
+        "price": 4.99,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 209,
+        "name": "Corrector de tinta",
+        "price": 3.49,
+        "stock": 250,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 210,
+        "name": "Lápiz con goma",
+        "price": 0.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 211,
+        "name": "Borrador de pizarra blanca",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 212,
+        "name": "Set de geometría (compás, escuadra, transportador)",
+        "price": 5.99,
+        "stock": 250,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 213,
+        "name": "Estuche para lápices de madera",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 214,
+        "name": "Papel celofán (pack de 20 hojas)",
+        "price": 2.49,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 215,
+        "name": "Pizarra magnética con rotuladores",
+        "price": 7.99,
+        "stock": 300,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 216,
+        "name": "Sacapuntas eléctrico",
+        "price": 6.49,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 217,
+        "name": "Borradores para pizarra (pack de 5)",
+        "price": 2.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 218,
+        "name": "Lápices de carpintero (pack de 3)",
+        "price": 4.99,
+        "stock": 250,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 219,
+        "name": "Portaminas con goma incorporada",
+        "price": 3.79,
+        "stock": 100,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 220,
+        "name": "Plumón de tinta borrable (pack de 4)",
+        "price": 5.49,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 221,
+        "name": "Pegamento escolar en barra",
+        "price": 1.49,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 222,
+        "name": "Papel adhesivo para manualidades",
+        "price": 2.99,
+        "stock": 300,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 223,
+        "name": "Estuche para rotuladores",
+        "price": 4.29,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 224,
+        "name": "Borradores de figuras divertidas",
+        "price": 1.99,
+        "stock": 250,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 225,
+        "name": "Portaminas de 0.5 mm",
+        "price": 2.49,
+        "stock": 100,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 226,
+        "name": "Resma de papel A3 (250 hojas)",
+        "price": 6.99,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 227,
+        "name": "Cinta correctora en forma de lápiz",
+        "price": 3.29,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 228,
+        "name": "Lápices para dibujo artístico (pack de 12)",
+        "price": 8.49,
+        "stock": 300,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 229,
+        "name": "Bolígrafo de tinta gel",
+        "price": 2.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 230,
+        "name": "Estuche para marcadores",
+        "price": 4.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 231,
+        "name": "Goma para borrar grande",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 232,
+        "name": "Set de lápices de grafito (HB, B, 2B)",
+        "price": 3.49,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 233,
+        "name": "Plumón para pizarra blanca",
+        "price": 4.49,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 234,
+        "name": "Lápices de colores (pack de 24)",
+        "price": 9.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 235,
+        "name": "Borrador en forma de animal",
+        "price": 2.49,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 236,
+        "name": "Estuche para lápices de carpintero",
+        "price": 5.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 237,
+        "name": "Carpeta de cartón con bolsillo interior",
+        "price": 3.79,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 238,
+        "name": "Portaminas de 0.7 mm",
+        "price": 1.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 239,
+        "name": "Plumones para pizarra (pack de 8)",
+        "price": 4.99,
+        "stock": 300,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 240,
+        "name": "Corrector de tinta",
+        "price": 3.49,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 241,
+        "name": "Lápiz con goma",
+        "price": 0.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 242,
+        "name": "Borrador de pizarra blanca",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 243,
+        "name": "Set de geometría (compás, escuadra, transportador)",
+        "price": 5.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 244,
+        "name": "Estuche para lápices de madera",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 245,
+        "name": "Papel celofán (pack de 20 hojas)",
+        "price": 2.49,
+        "stock": 250,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 246,
+        "name": "Pizarra magnética con rotuladores",
+        "price": 7.99,
+        "stock": 300,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 247,
+        "name": "Sacapuntas eléctrico",
+        "price": 6.49,
+        "stock": 150,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 248,
+        "name": "Borradores para pizarra (pack de 5)",
+        "price": 2.99,
+        "stock": 200,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 249,
+        "name": "Lápices de carpintero (pack de 3)",
+        "price": 4.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 250,
+        "name": "Portaminas con goma incorporada",
+        "price": 3.79,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 251,
+        "name": "Cuaderno de notas con tapa dura",
+        "price": 4.99,
+        "stock": 200,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 252,
+        "name": "Pluma estilográfica de lujo",
+        "price": 29.99,
+        "stock": 50,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 253,
+        "name": "Marcadores de colores vibrantes (pack de 12)",
+        "price": 6.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 254,
+        "name": "Calculadora científica avanzada",
+        "price": 15.99,
+        "stock": 80,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 255,
+        "name": "Mochila resistente para laptop",
+        "price": 39.99,
+        "stock": 30,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 256,
+        "name": "Carpeta organizadora de documentos",
+        "price": 8.79,
+        "stock": 150,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 257,
+        "name": "Paquete de 500 hojas de papel bond",
+        "price": 11.99,
+        "stock": 100,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 258,
+        "name": "Lápiz mecánico recargable",
+        "price": 3.29,
+        "stock": 120,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 259,
+        "name": "Cinta adhesiva transparente",
+        "price": 1.99,
+        "stock": 300,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 260,
+        "name": "Rotuladores de punta fina (pack de 6)",
+        "price": 5.49,
+        "stock": 80,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 261,
+        "name": "Grapadora de escritorio",
+        "price": 4.49,
+        "stock": 200,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 262,
+        "name": "Bloc de notas adhesivas (pack de 12)",
+        "price": 3.79,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 263,
+        "name": "Tijeras de precisión para manualidades",
+        "price": 2.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 264,
+        "name": "Carpeta de plástico con broche",
+        "price": 2.49,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 265,
+        "name": "Pegamento en barra extra fuerte",
+        "price": 2.29,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 266,
+        "name": "Lápices de colores (pack de 36)",
+        "price": 12.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 267,
+        "name": "Bolígrafo retráctil de gel",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 268,
+        "name": "Bloc de dibujo profesional",
+        "price": 7.99,
+        "stock": 80,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 269,
+        "name": "Set de reglas de plástico (pack de 3)",
+        "price": 3.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 270,
+        "name": "Borrador de alta precisión",
+        "price": 1.49,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 271,
+        "name": "Agenda semanal con diseño floral",
+        "price": 6.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 272,
+        "name": "Marcadores de pizarra blanca (pack de 4)",
+        "price": 3.49,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 273,
+        "name": "Clips metálicos surtidos (pack de 100)",
+        "price": 2.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 274,
+        "name": "Tijeras para zurdos",
+        "price": 4.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 275,
+        "name": "Grapas resistentes para uso industrial (pack de 1000)",
+        "price": 5.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 276,
+        "name": "Organizador de escritorio de madera",
+        "price": 9.49,
+        "stock": 150,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 277,
+        "name": "Cinta doble faz de alta adherencia",
+        "price": 3.29,
+        "stock": 120,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 278,
+        "name": "Bolígrafo de punta fina (pack de 10)",
+        "price": 6.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 279,
+        "name": "Tablero de corcho para anuncios",
+        "price": 7.79,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 280,
+        "name": "Agenda ejecutiva de cuero",
+        "price": 18.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 281,
+        "name": "Goma de borrar de alta calidad",
+        "price": 1.79,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 282,
+        "name": "Paquete de 100 hojas de papel pergamino",
+        "price": 6.49,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 283,
+        "name": "Compás de precisión",
+        "price": 4.99,
+        "stock": 80,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 284,
+        "name": "Estuche para bolígrafos",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 285,
+        "name": "Carpeta de plástico con gancho",
+        "price": 1.99,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 286,
+        "name": "Marcadores de punta fina (pack de 10)",
+        "price": 7.49,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 287,
+        "name": "Regla de metal con mango antideslizante",
+        "price": 2.99,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 288,
+        "name": "Corrector líquido de precisión",
+        "price": 2.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 289,
+        "name": "Bloc de dibujo para artistas",
+        "price": 8.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 290,
+        "name": "Portaclips magnético",
+        "price": 3.79,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 291,
+        "name": "Lápiz para carpintería",
+        "price": 1.49,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 292,
+        "name": "Bolígrafo retráctil de tinta negra (pack de 5)",
+        "price": 4.99,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 293,
+        "name": "Portaminas de 0.9 mm",
+        "price": 2.79,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 294,
+        "name": "Pizarra de corcho autoadhesiva",
+        "price": 6.99,
+        "stock": 200,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 295,
+        "name": "Set de bolígrafos de gel (pack de 8)",
+        "price": 9.49,
+        "stock": 250,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 296,
+        "name": "Tijeras de seguridad para niños",
+        "price": 2.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 297,
+        "name": "Calculadora básica de escritorio",
+        "price": 7.99,
+        "stock": 120,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 298,
+        "name": "Grapadora de bolsillo",
+        "price": 3.29,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 299,
+        "name": "Set de sellos de tinta de colores",
+        "price": 5.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 300,
+        "name": "Bloc de notas adhesivas de colores",
+        "price": 4.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 301,
+        "name": "Resaltador de texto fluorescente (pack de 4)",
+        "price": 3.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 302,
+        "name": "Lápiz marcador para pizarra blanca",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 303,
+        "name": "Corrector en cinta",
+        "price": 2.29,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 304,
+        "name": "Set de reglas de plástico transparente",
+        "price": 3.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 305,
+        "name": "Libreta de apuntes con espiral",
+        "price": 2.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 306,
+        "name": "Porta documentos de plástico",
+        "price": 1.99,
+        "stock": 150,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 307,
+        "name": "Grapadora eléctrica",
+        "price": 12.99,
+        "stock": 120,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 308,
+        "name": "Corrector en pluma",
+        "price": 3.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 309,
+        "name": "Bolígrafo de punta fina",
+        "price": 0.79,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 310,
+        "name": "Set de plumones para pizarra (pack de 8)",
+        "price": 6.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 311,
+        "name": "Goma de borrar para tinta",
+        "price": 2.49,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 312,
+        "name": "Clips de colores surtidos (pack de 200)",
+        "price": 3.99,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 313,
+        "name": "Porta notas adhesivas",
+        "price": 1.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 314,
+        "name": "Carpeta expandible de plástico",
+        "price": 4.29,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 315,
+        "name": "Estuche para marcadores de punta fina",
+        "price": 5.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 316,
+        "name": "Bolígrafo con tinta de gel",
+        "price": 1.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 317,
+        "name": "Regla de plástico flexible",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 318,
+        "name": "Corrector líquido con pincel",
+        "price": 2.79,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 319,
+        "name": "Bloc de dibujo para niños",
+        "price": 3.49,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 320,
+        "name": "Tijeras con mango de goma",
+        "price": 2.29,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 321,
+        "name": "Set de marcadores permanentes (pack de 6)",
+        "price": 7.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 322,
+        "name": "Sacapuntas manual con depósito",
+        "price": 1.49,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 323,
+        "name": "Portaminas de 0.3 mm",
+        "price": 2.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 324,
+        "name": "Carpeta con broche de colores surtidos",
+        "price": 3.79,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 325,
+        "name": "Lápiz marcador para pizarra",
+        "price": 1.79,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 326,
+        "name": "Goma de borrar para lápiz",
+        "price": 0.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 327,
+        "name": "Lápiz grafito triangular",
+        "price": 1.49,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 328,
+        "name": "Bolígrafo de punta media (pack de 10)",
+        "price": 6.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 329,
+        "name": "Marcadores de pizarra blanca (pack de 8)",
+        "price": 4.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 330,
+        "name": "Cinta adhesiva de doble cara extra fuerte",
+        "price": 3.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 331,
+        "name": "Set de lápices de colores (pack de 24)",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 332,
+        "name": "Plumón para pizarra (pack de 4)",
+        "price": 5.49,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 333,
+        "name": "Corrector en cinta con dispensador",
+        "price": 2.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 334,
+        "name": "Regla de madera de 30 cm",
+        "price": 1.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 335,
+        "name": "Estuche para bolígrafos de cuero",
+        "price": 7.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 336,
+        "name": "Set de lápices de grafito (HB, B, 2B)",
+        "price": 3.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 337,
+        "name": "Bolígrafo de punta fina retráctil",
+        "price": 1.79,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 338,
+        "name": "Corrector en lápiz",
+        "price": 3.29,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 339,
+        "name": "Bloc de notas adhesivas grandes",
+        "price": 2.49,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 340,
+        "name": "Grapas resistentes para uso escolar (pack de 1000)",
+        "price": 4.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 341,
+        "name": "Plumones para pizarra (pack de 6)",
+        "price": 4.49,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 342,
+        "name": "Goma para borrar con agarre ergonómico",
+        "price": 1.99,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 343,
+        "name": "Corrector en cinta con punta aplicadora",
+        "price": 2.79,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 344,
+        "name": "Portaminas de 0.5 mm",
+        "price": 2.29,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 345,
+        "name": "Bloc de notas adhesivas mini",
+        "price": 0.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 346,
+        "name": "Set de bolígrafos de colores (pack de 12)",
+        "price": 7.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 347,
+        "name": "Grapadora de escritorio metálica",
+        "price": 3.49,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 348,
+        "name": "Corrector en cinta recargable",
+        "price": 4.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 349,
+        "name": "Lápiz mecánico recargable con goma",
+        "price": 2.49,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 350,
+        "name": "Pizarra blanca con marco de aluminio",
+        "price": 14.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 351,
+        "name": "Porta clips magnético para escritorio",
+        "price": 2.79,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 352,
+        "name": "Portaminas de 0.7 mm",
+        "price": 1.99,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 353,
+        "name": "Corrector en cinta de doble cara",
+        "price": 2.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 354,
+        "name": "Set de reglas flexibles (pack de 3)",
+        "price": 3.49,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 355,
+        "name": "Marcador permanente para CD/DVD",
+        "price": 1.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 356,
+        "name": "Lápices de colores profesionales (pack de 48)",
+        "price": 16.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 357,
+        "name": "Estuche para rotuladores de punta fina",
+        "price": 5.99,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 358,
+        "name": "Portaminas de 0.9 mm",
+        "price": 2.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 359,
+        "name": "Carpeta con gancho de colores vivos",
+        "price": 3.79,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 360,
+        "name": "Corrector líquido de alta cobertura",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 361,
+        "name": "Set de lápices de colores de madera (pack de 12)",
+        "price": 5.49,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 362,
+        "name": "Resaltador de texto retractil",
+        "price": 2.79,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 363,
+        "name": "Corrector en cinta de precisión",
+        "price": 3.29,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 364,
+        "name": "Set de reglas de plástico de colores (pack de 4)",
+        "price": 3.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 365,
+        "name": "Goma de borrar con forma de animal",
+        "price": 1.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 366,
+        "name": "Set de lápices de grafito (HB, B, 2B, 4B)",
+        "price": 4.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 367,
+        "name": "Resaltador de texto líquido",
+        "price": 2.49,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 368,
+        "name": "Corrector en cinta con aplicador ergonómico",
+        "price": 3.79,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 369,
+        "name": "Regla de plástico con agujero para colgar",
+        "price": 2.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 370,
+        "name": "Set de marcadores para pizarra (pack de 12)",
+        "price": 8.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 371,
+        "name": "Grapadora de escritorio compacta",
+        "price": 2.49,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 372,
+        "name": "Resaltador de texto de doble punta",
+        "price": 3.29,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 373,
+        "name": "Corrector en cinta de precisión recargable",
+        "price": 4.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 374,
+        "name": "Portaminas de 0.5 mm con agarre de goma",
+        "price": 3.79,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 375,
+        "name": "Pizarra magnética para nevera",
+        "price": 4.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 376,
+        "name": "Set de lápices de colores de madera (pack de 24)",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 377,
+        "name": "Corrector líquido con pincel de precisión",
+        "price": 3.49,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 378,
+        "name": "Corrector en cinta recargable con aplicador",
+        "price": 4.79,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 379,
+        "name": "Set de marcadores permanentes de colores (pack de 12)",
+        "price": 8.49,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 380,
+        "name": "Portaminas de 0.7 mm con agarre de goma",
+        "price": 4.29,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 381,
+        "name": "Portaclips magnético de diseño",
+        "price": 3.49,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 382,
+        "name": "Corrector en cinta de doble punta",
+        "price": 3.99,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 383,
+        "name": "Corrector en cinta con aplicador preciso",
+        "price": 4.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 384,
+        "name": "Set de reglas de plástico flexibles (pack de 5)",
+        "price": 4.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 385,
+        "name": "Pizarra blanca de doble cara con soporte",
+        "price": 19.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 386,
+        "name": "Set de lápices de colores de madera (pack de 36)",
+        "price": 14.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 387,
+        "name": "Corrector líquido de precisión con pincel",
+        "price": 3.79,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 388,
+        "name": "Corrector en cinta de doble punta recargable",
+        "price": 4.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 389,
+        "name": "Set de marcadores permanentes de colores (pack de 24)",
+        "price": 14.49,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 390,
+        "name": "Portaminas de 0.9 mm con agarre ergonómico",
+        "price": 5.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 391,
+        "name": "Set de lápices de colores de madera (pack de 48)",
+        "price": 19.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 392,
+        "name": "Corrector líquido con punta de precisión",
+        "price": 4.29,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 393,
+        "name": "Corrector en cinta de doble punta recargable con aplicador",
+        "price": 5.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 394,
+        "name": "Set de marcadores permanentes de colores (pack de 36)",
+        "price": 17.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 395,
+        "name": "Portaminas de 0.3 mm con agarre ergonómico",
+        "price": 3.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 396,
+        "name": "Estuche para rotuladores de punta fina de cuero",
+        "price": 9.49,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 397,
+        "name": "Corrector líquido de precisión con pincel recargable",
+        "price": 4.79,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 398,
+        "name": "Corrector en cinta de doble punta recargable con aplicador preciso",
+        "price": 5.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 399,
+        "name": "Set de marcadores permanentes de colores (pack de 48)",
+        "price": 21.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 400,
+        "name": "Portaminas de 0.5 mm con agarre ergonómico",
+        "price": 4.49,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 401,
+        "name": "Estuche para rotuladores de punta fina de cuero de lujo",
+        "price": 12.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 402,
+        "name": "Corrector líquido de precisión con pincel recargable de alta cobertura",
+        "price": 5.49,
+        "stock": 150,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 403,
+        "name": "Corrector en cinta de doble punta recargable con aplicador preciso y ergonómico",
+        "price": 6.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 404,
+        "name": "Set de marcadores permanentes de colores (pack de 60)",
+        "price": 24.99,
+        "stock": 250,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 405,
+        "name": "Portaminas de 0.7 mm con agarre ergonómico",
+        "price": 4.99,
+        "stock": 200,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 406,
+        "name": "Jeans ajustados de tiro alto",
+        "price": 29.99,
+        "stock": 100,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 407,
+        "name": "Sudadera con capucha y estampado",
+        "price": 24.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 408,
+        "name": "Falda plisada de terciopelo",
+        "price": 19.99,
+        "stock": 80,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 409,
+        "name": "Blusa de encaje transparente",
+        "price": 27.99,
+        "stock": 90,
+        "sucursal": "Venezuela"
+    },
+    {
+        "id": 410,
+        "name": "Chaqueta de cuero sintético",
+        "price": 49.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 411,
+        "name": "Vestido largo de fiesta",
+        "price": 69.99,
+        "stock": 60,
+        "sucursal": "Ecuador"
+    },
+    {
+        "id": 412,
+        "name": "Pantalones cortos deportivos",
+        "price": 19.99,
+        "stock": 110,
+        "sucursal": "Bolivia"
+    },
+    {
+        "id": 413,
+        "name": "Jersey de punto grueso",
+        "price": 39.99,
+        "stock": 85,
+        "sucursal": "Paraguay"
+    },
+    {
+        "id": 414,
+        "name": "Abrigo de lana entallado",
+        "price": 79.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 415,
+        "name": "Camisa de lino con estampado floral",
+        "price": 34.99,
+        "stock": 70,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 416,
+        "name": "Pantalón cargo de algodón",
+        "price": 42.99,
+        "stock": 60,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 417,
+        "name": "Vestido corto de manga larga",
+        "price": 54.99,
+        "stock": 80,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 418,
+        "name": "Chaleco acolchado con capucha",
+        "price": 64.99,
+        "stock": 90,
+        "sucursal": "Venezuela"
+    },
+    {
+        "id": 419,
+        "name": "Chaqueta bomber de terciopelo",
+        "price": 49.99,
+        "stock": 100,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 420,
+        "name": "Pantalones de vestir entallados",
+        "price": 39.99,
+        "stock": 110,
+        "sucursal": "Ecuador"
+    },
+    {
+        "id": 421,
+        "name": "Sudadera oversize con estampado",
+        "price": 29.99,
+        "stock": 120,
+        "sucursal": "Bolivia"
+    },
+    {
+        "id": 422,
+        "name": "Falda midi plisada de satén",
+        "price": 44.99,
+        "stock": 130,
+        "sucursal": "Paraguay"
+    },
+    {
+        "id": 423,
+        "name": "Abrigo de paño cruzado",
+        "price": 89.99,
+        "stock": 140,
+        "sucursal": "Uruguay"
+    },
+    {
+        "id": 424,
+        "name": "Blusa de gasa con lazo en el cuello",
+        "price": 29.99,
+        "stock": 120,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 425,
+        "name": "Pantalones cortos vaqueros desgastados",
+        "price": 24.99,
+        "stock": 100,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 426,
+        "name": "Jersey de punto con cuello alto",
+        "price": 39.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 427,
+        "name": "Vestido camisero de rayas",
+        "price": 49.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 428,
+        "name": "Pantalón chino de algodón",
+        "price": 34.99,
+        "stock": 90,
+        "sucursal": "Venezuela"
+    },
+    {
+        "id": 429,
+        "name": "Chaqueta acolchada con capucha",
+        "price": 79.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 430,
+        "name": "Falda plisada de cuadros",
+        "price": 29.99,
+        "stock": 110,
+        "sucursal": "Ecuador"
+    },
+    {
+        "id": 431,
+        "name": "Sudadera de punto con capucha",
+        "price": 44.99,
+        "stock": 130,
+        "sucursal": "Bolivia"
+    },
+    {
+        "id": 432,
+        "name": "Vestido de encaje con escote en V",
+        "price": 54.99,
+        "stock": 150,
+        "sucursal": "Paraguay"
+    },
+    {
+        "id": 433,
+        "name": "Jersey de punto con botones en el hombro",
+        "price": 39.99,
+        "stock": 140,
+        "sucursal": "Uruguay"
+    },
+    {
+        "id": 434,
+        "name": "Camiseta estampada de manga corta",
+        "price": 19.99,
+        "stock": 120,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 435,
+        "name": "Pantalones cargo con bolsillos laterales",
+        "price": 29.99,
+        "stock": 100,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 436,
+        "name": "Sudadera con cuello redondo",
+        "price": 24.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 437,
+        "name": "Vestido skater de punto",
+        "price": 34.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 438,
+        "name": "Chaleco acolchado reversible",
+        "price": 49.99,
+        "stock": 90,
+        "sucursal": "Venezuela"
+    },
+    {
+        "id": 439,
+        "name": "Chaqueta vaquera con detalles desgastados",
+        "price": 59.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 440,
+        "name": "Falda de tubo de cuero sintético",
+        "price": 44.99,
+        "stock": 110,
+        "sucursal": "Ecuador"
+    },
+    {
+        "id": 441,
+        "name": "Jersey de punto con cuello alto",
+        "price": 39.99,
+        "stock": 130,
+        "sucursal": "Bolivia"
+    },
+    {
+        "id": 442,
+        "name": "Vestido de terciopelo con escote halter",
+        "price": 54.99,
+        "stock": 150,
+        "sucursal": "Paraguay"
+    },
+    {
+        "id": 443,
+        "name": "Pantalones jogger de algodón",
+        "price": 29.99,
+        "stock": 140,
+        "sucursal": "Uruguay"
+    },
+    {
+        "id": 444,
+        "name": "Camisa de cuadros de franela",
+        "price": 39.99,
+        "stock": 120,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 445,
+        "name": "Vestido largo estampado de flores",
+        "price": 49.99,
+        "stock": 100,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 446,
+        "name": "Jersey de punto con cuello barco",
+        "price": 24.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 447,
+        "name": "Chaqueta acolchada con capucha de piel sintética",
+        "price": 64.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 448,
+        "name": "Blusa de manga larga con volantes",
+        "price": 34.99,
+        "stock": 90,
+        "sucursal": "Venezuela"
+    },
+    {
+        "id": 449,
+        "name": "Parka con forro de borreguito",
+        "price": 79.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 450,
+        "name": "Pantalón culotte de tela",
+        "price": 39.99,
+        "stock": 110,
+        "sucursal": "Ecuador"
+    },
+    {
+        "id": 451,
+        "name": "Sudadera con capucha y cremallera",
+        "price": 44.99,
+        "stock": 130,
+        "sucursal": "Bolivia"
+    },
+    {
+        "id": 452,
+        "name": "Vestido camisero de rayas",
+        "price": 54.99,
+        "stock": 150,
+        "sucursal": "Paraguay"
+    },
+    {
+        "id": 453,
+        "name": "Jersey de punto con cuello vuelto",
+        "price": 34.99,
+        "stock": 140,
+        "sucursal": "Uruguay"
+    },
+    {
+        "id": 454,
+        "name": "Camiseta sin mangas de algodón",
+        "price": 19.99,
+        "stock": 120,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 455,
+        "name": "Vestido de encaje con escote en la espalda",
+        "price": 54.99,
+        "stock": 100,
+        "sucursal": "Brasil"
+    },
+    {
+        "id": 456,
+        "name": "Chaqueta de punto con botones",
+        "price": 29.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 457,
+        "name": "Pantalón de cuero sintético",
+        "price": 44.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 458,
+        "name": "Blusa de manga corta con estampado floral",
+        "price": 24.99,
+        "stock": 90,
+        "sucursal": "Venezuela"
+    },
+    {
+        "id": 459,
+        "name": "Abrigo acolchado largo",
+        "price": 69.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 460,
+        "name": "Falda de piel sintética",
+        "price": 49.99,
+        "stock": 110,
+        "sucursal": "Ecuador"
+    },
+    {
+        "id": 461,
+        "name": "Jersey de punto con estampado de rayas",
+        "price": 39.99,
+        "stock": 130,
+        "sucursal": "Bolivia"
+    },
+    {
+        "id": 462,
+        "name": "Vestido de punto con cuello alto",
+        "price": 44.99,
+        "stock": 150,
+        "sucursal": "Paraguay"
+    },
+    {
+        "id": 463,
+        "name": "Limpiador Facial Espumoso",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 464,
+        "name": "Gel de Ducha Exfoliante",
+        "price": 10.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 465,
+        "name": "Bálsamo Labial con Color",
+        "price": 8.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 466,
+        "name": "Base en Polvo Compacto",
+        "price": 16.49,
+        "stock": 90,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 467,
+        "name": "Máscara de Pestañas Voluminizadora",
+        "price": 9.99,
+        "stock": 60,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 468,
+        "name": "Sérum Facial Reafirmante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 469,
+        "name": "Loción Hidratante Corporal",
+        "price": 11.49,
+        "stock": 80,
+        "sucursal": "México"
+    },
+    {
+        "id": 470,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 471,
+        "name": "Prebase Iluminadora",
+        "price": 14.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 472,
+        "name": "Gel Refrescante para Ojos",
+        "price": 9.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 473,
+        "name": "Mascarilla Facial Hidratante",
+        "price": 16.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 474,
+        "name": "Corrector de Ojeras",
+        "price": 10.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 475,
+        "name": "Polvo Bronceador",
+        "price": 14.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 476,
+        "name": "Gel para Cejas Transparente",
+        "price": 8.49,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 477,
+        "name": "Agua Micelar para Maquillaje Resistente al Agua",
+        "price": 13.99,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 478,
+        "name": "Crema Corporal Reafirmante",
+        "price": 18.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 479,
+        "name": "Protector Solar Facial FPS 50",
+        "price": 15.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 480,
+        "name": "Base en Crema",
+        "price": 17.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 481,
+        "name": "Gel Fijador de Cejas",
+        "price": 8.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 482,
+        "name": "Crema Hidratante para Piel Sensible",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 483,
+        "name": "Mascarilla Exfoliante",
+        "price": 13.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 484,
+        "name": "Rubor en Polvo",
+        "price": 14.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 485,
+        "name": "Primer Matificante",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 486,
+        "name": "Lápiz de Ojos Retráctil",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 487,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 488,
+        "name": "Gel de Ducha Hidratante",
+        "price": 11.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 489,
+        "name": "Bálsamo Labial Hidratante con SPF 15",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 490,
+        "name": "Base Líquida de Cobertura Total",
+        "price": 18.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 491,
+        "name": "Máscara de Pestañas alargadora",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 492,
+        "name": "Lápiz Labial Mate",
+        "price": 8.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 493,
+        "name": "Desmaquillante Bifásico",
+        "price": 16.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 494,
+        "name": "Tónico Facial Hidratante",
+        "price": 12.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 495,
+        "name": "Crema Iluminadora de Ojos",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 496,
+        "name": "Gel para Cejas con Color",
+        "price": 9.49,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 497,
+        "name": "Mascarilla Facial Revitalizante",
+        "price": 17.99,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 498,
+        "name": "Aceite de Almendras para el Cuerpo",
+        "price": 11.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 499,
+        "name": "Exfoliante Corporal",
+        "price": 14.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 500,
+        "name": "Corrector Líquido",
+        "price": 9.99,
+        "stock": 50,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 501,
+        "name": "Labial Mate Duradero",
+        "price": 7.49,
+        "stock": 80,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 502,
+        "name": "Sombra de Ojos en Crema",
+        "price": 12.99,
+        "stock": 70,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 503,
+        "name": "Gel Limpiador Facial",
+        "price": 15.99,
+        "stock": 100,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 504,
+        "name": "Polvo Compacto",
+        "price": 11.49,
+        "stock": 120,
+        "sucursal": "México"
+    },
+    {
+        "id": 505,
+        "name": "Delineador Líquido",
+        "price": 8.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 506,
+        "name": "Crema de Noche Revitalizante",
+        "price": 19.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 507,
+        "name": "Máscara de Pestañas Waterproof",
+        "price": 10.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 508,
+        "name": "Tónico Facial Refrescante",
+        "price": 13.99,
+        "stock": 70,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 509,
+        "name": "Base de Maquillaje Mineral",
+        "price": 14.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 510,
+        "name": "Lápiz de Cejas",
+        "price": 6.99,
+        "stock": 80,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 511,
+        "name": "Bálsamo Labial con Color",
+        "price": 5.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 512,
+        "name": "Contorno de Ojos Antiarrugas",
+        "price": 17.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 513,
+        "name": "Crema Hidratante con SPF",
+        "price": 16.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 514,
+        "name": "Paleta de Rubores",
+        "price": 22.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 515,
+        "name": "Primer Facial Matificante",
+        "price": 11.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 516,
+        "name": "Delineador de Ojos en Gel",
+        "price": 8.49,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 517,
+        "name": "Exfoliante Facial",
+        "price": 14.99,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 518,
+        "name": "Agua Micelar",
+        "price": 9.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 519,
+        "name": "Lápiz Labial Hidratante",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 520,
+        "name": "Máscara de Pestañas de Fibra",
+        "price": 12.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 521,
+        "name": "Base Iluminadora",
+        "price": 18.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 522,
+        "name": "Crema Antiedad de Noche",
+        "price": 20.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 523,
+        "name": "Tónico Exfoliante",
+        "price": 15.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 524,
+        "name": "Paleta de Sombras Metálicas",
+        "price": 24.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 525,
+        "name": "Polvo Translúcido",
+        "price": 13.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 526,
+        "name": "Brillo Labial Hidratante",
+        "price": 6.49,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 527,
+        "name": "Mascarilla Facial Purificante",
+        "price": 16.99,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 528,
+        "name": "Agua Termal",
+        "price": 10.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 529,
+        "name": "Lápiz de Ojos Resistente al Agua",
+        "price": 8.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 530,
+        "name": "Crema Hidratante Matificante",
+        "price": 17.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 531,
+        "name": "Bronceador en Polvo",
+        "price": 11.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 532,
+        "name": "Serum Reparador de Puntas",
+        "price": 14.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 533,
+        "name": "Mascarilla de Noche Hidratante",
+        "price": 19.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 534,
+        "name": "Iluminador Líquido",
+        "price": 9.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 535,
+        "name": "Base en Polvo Mineral",
+        "price": 16.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 536,
+        "name": "Gloss Labial con Efecto Voluminizador",
+        "price": 7.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 537,
+        "name": "Tónico Calmante",
+        "price": 12.99,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 538,
+        "name": "Desmaquillante Bifásico",
+        "price": 10.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 539,
+        "name": "Lápiz Labial Mate",
+        "price": 8.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 540,
+        "name": "Paleta de Correctores",
+        "price": 14.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 541,
+        "name": "Crema Antiarrugas para el Contorno de Ojos",
+        "price": 18.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 542,
+        "name": "Exfoliante Corporal",
+        "price": 13.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 543,
+        "name": "Crema Hidratante con Color",
+        "price": 15.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 544,
+        "name": "Spray Fijador de Maquillaje",
+        "price": 11.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 545,
+        "name": "Corrector en Stick",
+        "price": 7.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 546,
+        "name": "Rubor en Crema",
+        "price": 9.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 547,
+        "name": "Mascarilla Facial Hidratante",
+        "price": 16.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 548,
+        "name": "Crema Corporal Nutritiva",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 549,
+        "name": "Barra de Labios Hidratante",
+        "price": 8.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 550,
+        "name": "Iluminador en Crema",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 551,
+        "name": "Primer de Ojos",
+        "price": 13.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 552,
+        "name": "Aceite Desmaquillante",
+        "price": 11.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 553,
+        "name": "Agua Micelar para Piel Sensible",
+        "price": 14.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 554,
+        "name": "Máscara de Pestañas de Color",
+        "price": 9.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 555,
+        "name": "Base en Barra",
+        "price": 17.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 556,
+        "name": "Gel Fijador de Cejas",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 557,
+        "name": "Tónico Purificante",
+        "price": 12.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 558,
+        "name": "Crema Reafirmante de Cuello",
+        "price": 16.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 559,
+        "name": "Lápiz Labial Líquido",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 560,
+        "name": "Polvo Matificante",
+        "price": 11.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 561,
+        "name": "Gel de Cejas con Color",
+        "price": 9.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 562,
+        "name": "Crema Antimanchas",
+        "price": 18.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 563,
+        "name": "Mascarilla Exfoliante",
+        "price": 13.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 564,
+        "name": "Iluminador en Polvo",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 565,
+        "name": "Primer Matificante",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 566,
+        "name": "Lápiz de Ojos Retráctil",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 567,
+        "name": "Mascarilla de Arcilla Purificante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 568,
+        "name": "Aceite Corporal Hidratante",
+        "price": 11.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 569,
+        "name": "Bálsamo Labial Reparador",
+        "price": 7.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 570,
+        "name": "Base en Crema",
+        "price": 16.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 571,
+        "name": "Polvo Bronceador",
+        "price": 12.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 572,
+        "name": "Contorno de Labios",
+        "price": 8.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 573,
+        "name": "Crema Exfoliante Facial",
+        "price": 14.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 574,
+        "name": "Delineador en Lápiz",
+        "price": 9.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 575,
+        "name": "Rubor en Polvo",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 576,
+        "name": "Brillo de Labios con Efecto Voluminizador",
+        "price": 6.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 577,
+        "name": "Mascarilla Facial Revitalizante",
+        "price": 16.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 578,
+        "name": "Gel de Ducha Hidratante",
+        "price": 11.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 579,
+        "name": "Lápiz Labial con Acabado Satinado",
+        "price": 8.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 580,
+        "name": "Base en Mousse",
+        "price": 17.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 581,
+        "name": "Gel Fijador de Maquillaje",
+        "price": 13.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 582,
+        "name": "Crema Contorno de Ojos Hidratante",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 583,
+        "name": "Mascarilla para Puntos Negros",
+        "price": 14.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 584,
+        "name": "Iluminador en Crema",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 585,
+        "name": "Polvo Translúcido",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 586,
+        "name": "Delineador de Ojos en Gel",
+        "price": 9.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 587,
+        "name": "Mascarilla Facial Purificante",
+        "price": 16.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 588,
+        "name": "Crema Corporal Nutritiva",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 589,
+        "name": "Barra de Labios Hidratante",
+        "price": 8.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 590,
+        "name": "Iluminador en Polvo",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 591,
+        "name": "Primer de Ojos",
+        "price": 13.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 592,
+        "name": "Aceite Desmaquillante",
+        "price": 11.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 593,
+        "name": "Agua Micelar para Piel Sensible",
+        "price": 14.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 594,
+        "name": "Máscara de Pestañas de Color",
+        "price": 9.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 595,
+        "name": "Base en Barra",
+        "price": 17.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 596,
+        "name": "Gel Fijador de Cejas",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 597,
+        "name": "Tónico Purificante",
+        "price": 12.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 598,
+        "name": "Crema Reafirmante de Cuello",
+        "price": 16.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 599,
+        "name": "Lápiz Labial Líquido",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 600,
+        "name": "Polvo Matificante",
+        "price": 11.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 601,
+        "name": "Gel de Cejas con Color",
+        "price": 9.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 602,
+        "name": "Crema Antimanchas",
+        "price": 18.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 603,
+        "name": "Mascarilla Exfoliante",
+        "price": 13.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 604,
+        "name": "Iluminador en Polvo",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 605,
+        "name": "Primer Matificante",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 606,
+        "name": "Lápiz de Ojos Retráctil",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 607,
+        "name": "Mascarilla de Arcilla Purificante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 608,
+        "name": "Aceite Corporal Hidratante",
+        "price": 11.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 609,
+        "name": "Bálsamo Labial Reparador",
+        "price": 7.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 610,
+        "name": "Base en Mousse",
+        "price": 17.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 611,
+        "name": "Gel Fijador de Maquillaje",
+        "price": 13.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 612,
+        "name": "Crema Contorno de Ojos Hidratante",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 613,
+        "name": "Mascarilla para Puntos Negros",
+        "price": 14.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 614,
+        "name": "Iluminador en Crema",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 615,
+        "name": "Polvo Translúcido",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 616,
+        "name": "Delineador de Ojos en Gel",
+        "price": 9.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 617,
+        "name": "Mascarilla Facial Purificante",
+        "price": 16.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 618,
+        "name": "Crema Corporal Nutritiva",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 619,
+        "name": "Barra de Labios Hidratante",
+        "price": 8.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 620,
+        "name": "Iluminador en Polvo",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 621,
+        "name": "Primer de Ojos",
+        "price": 13.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 622,
+        "name": "Aceite Desmaquillante",
+        "price": 11.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 623,
+        "name": "Agua Micelar para Piel Sensible",
+        "price": 14.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 624,
+        "name": "Máscara de Pestañas de Color",
+        "price": 9.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 625,
+        "name": "Base en Barra",
+        "price": 17.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 626,
+        "name": "Gel Fijador de Cejas",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 627,
+        "name": "Tónico Purificante",
+        "price": 12.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 628,
+        "name": "Crema Reafirmante de Cuello",
+        "price": 16.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 629,
+        "name": "Lápiz Labial Líquido",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 630,
+        "name": "Polvo Matificante",
+        "price": 11.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 631,
+        "name": "Gel de Cejas con Color",
+        "price": 9.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 632,
+        "name": "Crema Antimanchas",
+        "price": 18.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 633,
+        "name": "Mascarilla Exfoliante",
+        "price": 13.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 634,
+        "name": "Iluminador en Polvo",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 635,
+        "name": "Primer Matificante",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 636,
+        "name": "Lápiz de Ojos Retráctil",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 637,
+        "name": "Mascarilla de Arcilla Purificante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 638,
+        "name": "Aceite Corporal Hidratante",
+        "price": 11.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 639,
+        "name": "Bálsamo Labial Reparador",
+        "price": 7.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 640,
+        "name": "Base en Mousse",
+        "price": 17.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 641,
+        "name": "Gel Fijador de Maquillaje",
+        "price": 13.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 642,
+        "name": "Crema Contorno de Ojos Hidratante",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 643,
+        "name": "Mascarilla para Puntos Negros",
+        "price": 14.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 644,
+        "name": "Iluminador en Crema",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 645,
+        "name": "Polvo Translúcido",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 646,
+        "name": "Delineador de Ojos en Gel",
+        "price": 9.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 647,
+        "name": "Mascarilla Facial Purificante",
+        "price": 16.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 648,
+        "name": "Crema Corporal Nutritiva",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 649,
+        "name": "Barra de Labios Hidratante",
+        "price": 8.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 650,
+        "name": "Iluminador en Polvo",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 651,
+        "name": "Primer de Ojos",
+        "price": 13.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 652,
+        "name": "Aceite Desmaquillante",
+        "price": 11.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 653,
+        "name": "Agua Micelar para Piel Sensible",
+        "price": 14.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 654,
+        "name": "Máscara de Pestañas de Color",
+        "price": 9.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 655,
+        "name": "Base en Barra",
+        "price": 17.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 656,
+        "name": "Gel Fijador de Cejas",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 657,
+        "name": "Tónico Purificante",
+        "price": 12.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 658,
+        "name": "Crema Reafirmante de Cuello",
+        "price": 16.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 659,
+        "name": "Lápiz Labial Líquido",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 660,
+        "name": "Polvo Matificante",
+        "price": 11.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 661,
+        "name": "Gel de Cejas con Color",
+        "price": 9.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 662,
+        "name": "Crema Antimanchas",
+        "price": 18.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 663,
+        "name": "Mascarilla Exfoliante",
+        "price": 13.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 664,
+        "name": "Iluminador en Polvo",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 665,
+        "name": "Primer Matificante",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 666,
+        "name": "Lápiz de Ojos Retráctil",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 667,
+        "name": "Mascarilla de Arcilla Purificante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 668,
+        "name": "Aceite Corporal Hidratante",
+        "price": 11.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 669,
+        "name": "Bálsamo Labial Reparador",
+        "price": 7.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 670,
+        "name": "Base en Mousse",
+        "price": 17.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 671,
+        "name": "Gel Fijador de Maquillaje",
+        "price": 13.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 672,
+        "name": "Crema Contorno de Ojos Hidratante",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 673,
+        "name": "Mascarilla para Puntos Negros",
+        "price": 14.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 674,
+        "name": "Iluminador en Crema",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 675,
+        "name": "Polvo Translúcido",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 676,
+        "name": "Delineador de Ojos en Gel",
+        "price": 9.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 677,
+        "name": "Mascarilla Facial Purificante",
+        "price": 16.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 678,
+        "name": "Crema Corporal Nutritiva",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 679,
+        "name": "Barra de Labios Hidratante",
+        "price": 8.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 680,
+        "name": "Iluminador en Polvo",
+        "price": 10.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 681,
+        "name": "Primer de Ojos",
+        "price": 13.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 682,
+        "name": "Aceite Desmaquillante",
+        "price": 11.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 683,
+        "name": "Agua Micelar para Piel Sensible",
+        "price": 14.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 684,
+        "name": "Máscara de Pestañas de Color",
+        "price": 9.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 685,
+        "name": "Base en Barra",
+        "price": 17.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 686,
+        "name": "Gel Fijador de Cejas",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 687,
+        "name": "Tónico Purificante",
+        "price": 12.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 688,
+        "name": "Crema Reafirmante de Cuello",
+        "price": 16.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 689,
+        "name": "Lápiz Labial Líquido",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 690,
+        "name": "Polvo Matificante",
+        "price": 11.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 691,
+        "name": "Crema Corporal de Manteca de Karité",
+        "price": 19.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 692,
+        "name": "Rubor en Crema",
+        "price": 14.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 693,
+        "name": "Primer Iluminador",
+        "price": 16.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 694,
+        "name": "Máscara de Pestañas a Prueba de Agua",
+        "price": 10.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 695,
+        "name": "Contorno de Labios",
+        "price": 8.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 696,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 697,
+        "name": "Crema de Manos Hidratante",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 698,
+        "name": "Base Compacta con FPS 30",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 699,
+        "name": "Lápiz Delineador de Labios",
+        "price": 9.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 700,
+        "name": "Sérum Facial Antiarrugas",
+        "price": 17.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 701,
+        "name": "Mascarilla para el Contorno de Ojos",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 702,
+        "name": "Crema Facial Antioxidante",
+        "price": 10.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 703,
+        "name": "Polvo Compacto Matificante",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 704,
+        "name": "Primer Pore Minimizer",
+        "price": 11.49,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 705,
+        "name": "Crema Corporal de Almendras",
+        "price": 16.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 706,
+        "name": "Agua Micelar Todo en Uno",
+        "price": 14.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 707,
+        "name": "Crema de Noche Regeneradora",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 708,
+        "name": "Base en Barra",
+        "price": 17.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 709,
+        "name": "Gel de Cejas con Color",
+        "price": 8.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 710,
+        "name": "Crema de Día Antiedad",
+        "price": 18.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 711,
+        "name": "Mascarilla de Arcilla para Poros",
+        "price": 12.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 712,
+        "name": "Corrector Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 713,
+        "name": "Rubor en Polvo",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 714,
+        "name": "Base Líquida Hidratante",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 715,
+        "name": "Gel para Ojos Antiarrugas",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 716,
+        "name": "Aceite Corporal de Rosa Mosqueta",
+        "price": 13.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 717,
+        "name": "Crema de Pies Hidratante",
+        "price": 10.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 718,
+        "name": "Base Compacta con SPF 50",
+        "price": 16.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 719,
+        "name": "Delineador de Ojos en Gel",
+        "price": 9.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 720,
+        "name": "Crema de Manos Reparadora",
+        "price": 18.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 721,
+        "name": "Mascarilla para Labios",
+        "price": 14.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 722,
+        "name": "Contorno de Ojos Antiarrugas",
+        "price": 11.99,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 723,
+        "name": "Polvo Iluminador",
+        "price": 15.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 724,
+        "name": "Lápiz de Cejas",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 725,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 726,
+        "name": "Aceite Corporal de Almendras",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 727,
+        "name": "Crema de Manos de Karité",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 728,
+        "name": "Base en Barra Hidratante",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 729,
+        "name": "Máscara de Pestañas Curvadora",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 730,
+        "name": "Crema de Manos de Aceite de Oliva",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 731,
+        "name": "Mascarilla Capilar Hidratante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 732,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 733,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 734,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 735,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 736,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 737,
+        "name": "Crema de Pies Reparadora",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 738,
+        "name": "Base Líquida de Larga Duración",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 739,
+        "name": "Lápiz Delineador de Ojos",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 740,
+        "name": "Crema de Manos de Leche de Cabra",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 741,
+        "name": "Mascarilla Exfoliante Facial",
+        "price": 12.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 742,
+        "name": "Contorno de Ojos Hidratante",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 743,
+        "name": "Polvo Bronceador",
+        "price": 14.49,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 744,
+        "name": "Base en Crema con SPF 30",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 745,
+        "name": "Crema Facial Hidratante de Día",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 746,
+        "name": "Aceite Corporal de Albaricoque",
+        "price": 13.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 747,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.49,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 748,
+        "name": "Base Compacta de Cobertura Total",
+        "price": 18.99,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 749,
+        "name": "Máscara de Pestañas Voluminizadora",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 750,
+        "name": "Crema de Manos de Manteca de Cacao",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 751,
+        "name": "Mascarilla de Carbón Purificante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 752,
+        "name": "Corrector de Ojeras",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 753,
+        "name": "Rubor en Polvo",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 754,
+        "name": "Primer Matificante",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 755,
+        "name": "Crema de Noche Antioxidante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 756,
+        "name": "Aceite Corporal de Jojoba",
+        "price": 14.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 757,
+        "name": "Crema de Manos de Karité",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 758,
+        "name": "Base Líquida de Acabado Mate",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 759,
+        "name": "Delineador de Ojos en Lápiz",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 760,
+        "name": "Crema de Manos de Rosa Mosqueta",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 761,
+        "name": "Mascarilla de Hidrogel para Ojos",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 762,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 763,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 764,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 765,
+        "name": "Crema de Día Antiarrugas",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 766,
+        "name": "Aceite Corporal de Rosa Mosqueta",
+        "price": 13.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 767,
+        "name": "Crema de Manos de Leche de Cabra",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 768,
+        "name": "Base Compacta con FPS 30",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 769,
+        "name": "Delineador de Ojos en Gel",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 770,
+        "name": "Crema de Manos de Albaricoque",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 771,
+        "name": "Mascarilla Facial Hidratante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 772,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 773,
+        "name": "Rubor en Polvo",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 774,
+        "name": "Base Líquida de Larga Duración",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 775,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 776,
+        "name": "Aceite Corporal de Almendras",
+        "price": 13.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 777,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 778,
+        "name": "Base Compacta de Cobertura Total",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 779,
+        "name": "Máscara de Pestañas Voluminizadora",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 780,
+        "name": "Crema de Manos de Manteca de Karité",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 781,
+        "name": "Mascarilla de Carbón Purificante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 782,
+        "name": "Corrector de Ojeras",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 783,
+        "name": "Rubor en Polvo",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 784,
+        "name": "Primer Matificante",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 785,
+        "name": "Crema de Noche Antioxidante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 786,
+        "name": "Aceite Corporal de Jojoba",
+        "price": 14.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 787,
+        "name": "Crema de Manos de Karité",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 788,
+        "name": "Base Líquida de Acabado Mate",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 789,
+        "name": "Delineador de Ojos en Lápiz",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 790,
+        "name": "Crema de Manos de Rosa Mosqueta",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 791,
+        "name": "Mascarilla Facial Hidratante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 792,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 793,
+        "name": "Rubor en Polvo",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 794,
+        "name": "Base Líquida de Larga Duración",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 795,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 796,
+        "name": "Aceite Corporal de Almendras",
+        "price": 13.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 797,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 798,
+        "name": "Base Compacta de Cobertura Total",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 799,
+        "name": "Máscara de Pestañas Voluminizadora",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 800,
+        "name": "Crema de Manos de Manteca de Karité",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 801,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 802,
+        "name": "Rubor en Crema",
+        "price": 15.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 803,
+        "name": "Primer Iluminador",
+        "price": 16.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 804,
+        "name": "Máscara de Pestañas a Prueba de Agua",
+        "price": 10.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 805,
+        "name": "Contorno de Labios",
+        "price": 8.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 806,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 807,
+        "name": "Crema de Manos Hidratante",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 808,
+        "name": "Base Compacta con FPS 30",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 809,
+        "name": "Lápiz Delineador de Labios",
+        "price": 9.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 810,
+        "name": "Sérum Facial Antiarrugas",
+        "price": 17.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 811,
+        "name": "Mascarilla para el Contorno de Ojos",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 812,
+        "name": "Crema Facial Antioxidante",
+        "price": 10.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 813,
+        "name": "Polvo Compacto Matificante",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 814,
+        "name": "Primer Pore Minimizer",
+        "price": 11.49,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 815,
+        "name": "Crema Corporal de Almendras",
+        "price": 16.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 816,
+        "name": "Agua Micelar Todo en Uno",
+        "price": 14.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 817,
+        "name": "Crema de Noche Regeneradora",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 818,
+        "name": "Base en Barra",
+        "price": 17.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 819,
+        "name": "Gel de Cejas con Color",
+        "price": 8.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 820,
+        "name": "Crema de Día Antiedad",
+        "price": 18.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 821,
+        "name": "Mascarilla de Arcilla para Poros",
+        "price": 12.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 822,
+        "name": "Corrector Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 823,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 824,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 825,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 826,
+        "name": "Aceite Corporal de Albaricoque",
+        "price": 13.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 827,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 828,
+        "name": "Base en Barra Hidratante",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 829,
+        "name": "Máscara de Pestañas Curvadora",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 830,
+        "name": "Crema de Manos de Aceite de Oliva",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 831,
+        "name": "Mascarilla Capilar Hidratante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 832,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 833,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 834,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 835,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 836,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 837,
+        "name": "Crema de Manos de Karité",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 838,
+        "name": "Base en Barra Hidratante",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 839,
+        "name": "Máscara de Pestañas Curvadora",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 840,
+        "name": "Crema de Manos de Aceite de Oliva",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 841,
+        "name": "Mascarilla Capilar Hidratante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 842,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 843,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 844,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 845,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 846,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 847,
+        "name": "Crema de Manos de Karité",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 848,
+        "name": "Base en Barra Hidratante",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 849,
+        "name": "Máscara de Pestañas Curvadora",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 850,
+        "name": "Crema de Manos de Aceite de Oliva",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 851,
+        "name": "Mascarilla Capilar Reparadora",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 852,
+        "name": "Corrector de Ojeras en Stick",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 853,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 854,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 855,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 856,
+        "name": "Aceite Corporal de Almendras",
+        "price": 13.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 857,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 858,
+        "name": "Base Compacta con FPS 30",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 859,
+        "name": "Lápiz Delineador de Ojos",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 860,
+        "name": "Crema de Manos de Leche de Cabra",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 861,
+        "name": "Mascarilla Exfoliante Facial",
+        "price": 12.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 862,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 863,
+        "name": "Rubor en Polvo",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 864,
+        "name": "Base Líquida de Larga Duración",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 865,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 866,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 867,
+        "name": "Crema de Manos de Karité",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 868,
+        "name": "Base en Barra Hidratante",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 869,
+        "name": "Máscara de Pestañas Curvadora",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 870,
+        "name": "Crema de Manos de Aceite de Oliva",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 871,
+        "name": "Mascarilla Capilar Hidratante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 872,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 873,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 874,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 875,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 876,
+        "name": "Aceite Corporal de Almendras",
+        "price": 13.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 877,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 878,
+        "name": "Base Compacta con FPS 30",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 879,
+        "name": "Lápiz Delineador de Ojos",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 880,
+        "name": "Crema de Manos de Leche de Cabra",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 881,
+        "name": "Mascarilla Exfoliante Facial",
+        "price": 12.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 882,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 883,
+        "name": "Rubor en Polvo",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 884,
+        "name": "Base Líquida de Larga Duración",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 885,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 886,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 887,
+        "name": "Crema de Manos de Karité",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 888,
+        "name": "Base en Barra Hidratante",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 889,
+        "name": "Máscara de Pestañas Curvadora",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 890,
+        "name": "Crema de Manos de Aceite de Oliva",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 891,
+        "name": "Mascarilla Capilar Reparadora",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 892,
+        "name": "Corrector de Ojeras en Stick",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 893,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 894,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 895,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 896,
+        "name": "Aceite Corporal de Almendras",
+        "price": 13.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 897,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 898,
+        "name": "Base Compacta con FPS 30",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 899,
+        "name": "Lápiz Delineador de Ojos",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 900,
+        "name": "Crema de Manos de Leche de Cabra",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 901,
+        "name": "Mascarilla Exfoliante Facial",
+        "price": 12.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 902,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 903,
+        "name": "Rubor en Polvo",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 904,
+        "name": "Base Líquida de Larga Duración",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 905,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 906,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 907,
+        "name": "Crema de Manos de Karité",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 908,
+        "name": "Base en Barra Hidratante",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 909,
+        "name": "Máscara de Pestañas Curvadora",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 910,
+        "name": "Crema de Manos de Aceite de Oliva",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 911,
+        "name": "Mascarilla Capilar Hidratante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 912,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 913,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 914,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 915,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 916,
+        "name": "Aceite Corporal de Almendras",
+        "price": 13.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 917,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 918,
+        "name": "Base Compacta con FPS 30",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 919,
+        "name": "Lápiz Delineador de Ojos",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 920,
+        "name": "Crema de Manos de Leche de Cabra",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 921,
+        "name": "Mascarilla Exfoliante Facial",
+        "price": 12.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 922,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 923,
+        "name": "Rubor en Polvo",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 924,
+        "name": "Base Líquida de Larga Duración",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 925,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 926,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 927,
+        "name": "Crema de Manos de Karité",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 928,
+        "name": "Base en Barra Hidratante",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 929,
+        "name": "Máscara de Pestañas Curvadora",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 930,
+        "name": "Crema de Manos de Aceite de Oliva",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 931,
+        "name": "Mascarilla Capilar Hidratante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 932,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 933,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 934,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 935,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 936,
+        "name": "Aceite Corporal de Almendras",
+        "price": 13.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 937,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 938,
+        "name": "Base Compacta con FPS 30",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 939,
+        "name": "Lápiz Delineador de Ojos",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 940,
+        "name": "Crema de Manos de Leche de Cabra",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 941,
+        "name": "Mascarilla Exfoliante Facial",
+        "price": 12.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 942,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 943,
+        "name": "Rubor en Polvo",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 944,
+        "name": "Base Líquida de Larga Duración",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 945,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 946,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 947,
+        "name": "Crema de Manos de Karité",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 948,
+        "name": "Base en Barra Hidratante",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 949,
+        "name": "Máscara de Pestañas Curvadora",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 950,
+        "name": "Crema de Manos de Aceite de Oliva",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 951,
+        "name": "Mascarilla Capilar Reparadora",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 952,
+        "name": "Corrector de Ojeras en Stick",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 953,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 954,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 955,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 956,
+        "name": "Aceite Corporal de Almendras",
+        "price": 13.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 957,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 958,
+        "name": "Base Compacta con FPS 30",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 959,
+        "name": "Lápiz Delineador de Ojos",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 960,
+        "name": "Crema de Manos de Leche de Cabra",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 961,
+        "name": "Mascarilla Exfoliante Facial",
+        "price": 12.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 962,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 963,
+        "name": "Rubor en Polvo",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 964,
+        "name": "Base Líquida de Larga Duración",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 965,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 966,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 967,
+        "name": "Crema de Manos de Karité",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 968,
+        "name": "Base en Barra Hidratante",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 969,
+        "name": "Máscara de Pestañas Curvadora",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 970,
+        "name": "Crema de Manos de Aceite de Oliva",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 971,
+        "name": "Mascarilla Capilar Hidratante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 972,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 973,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 974,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 975,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 976,
+        "name": "Aceite Corporal de Almendras",
+        "price": 13.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 977,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 978,
+        "name": "Base Compacta con FPS 30",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 979,
+        "name": "Lápiz Delineador de Ojos",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 980,
+        "name": "Crema de Manos de Leche de Cabra",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 981,
+        "name": "Mascarilla Exfoliante Facial",
+        "price": 12.49,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 982,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 983,
+        "name": "Rubor en Polvo",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 984,
+        "name": "Base Líquida de Larga Duración",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 985,
+        "name": "Crema de Noche Hidratante",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 986,
+        "name": "Aceite Corporal de Coco",
+        "price": 12.99,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 987,
+        "name": "Crema de Manos de Karité",
+        "price": 7.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 988,
+        "name": "Base en Barra Hidratante",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 989,
+        "name": "Máscara de Pestañas Curvadora",
+        "price": 9.99,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 990,
+        "name": "Crema de Manos de Aceite de Oliva",
+        "price": 19.49,
+        "stock": 50,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 991,
+        "name": "Mascarilla Capilar Hidratante",
+        "price": 13.99,
+        "stock": 120,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 992,
+        "name": "Corrector de Ojeras Iluminador",
+        "price": 11.49,
+        "stock": 70,
+        "sucursal": "México"
+    },
+    {
+        "id": 993,
+        "name": "Rubor en Crema",
+        "price": 15.99,
+        "stock": 90,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 994,
+        "name": "Base en Polvo Compacto",
+        "price": 8.99,
+        "stock": 60,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 995,
+        "name": "Crema de Noche Regeneradora",
+        "price": 17.49,
+        "stock": 110,
+        "sucursal": "Argentina"
+    },
+    {
+        "id": 996,
+        "name": "Aceite Corporal de Almendras",
+        "price": 13.49,
+        "stock": 80,
+        "sucursal": "Colombia"
+    },
+    {
+        "id": 997,
+        "name": "Crema de Manos de Aloe Vera",
+        "price": 9.99,
+        "stock": 130,
+        "sucursal": "México"
+    },
+    {
+        "id": 998,
+        "name": "Base Compacta con FPS 30",
+        "price": 18.49,
+        "stock": 70,
+        "sucursal": "Chile"
+    },
+    {
+        "id": 999,
+        "name": "Lápiz Delineador de Ojos",
+        "price": 10.49,
+        "stock": 100,
+        "sucursal": "Perú"
+    },
+    {
+        "id": 1000,
+        "name": "Crema de Manos de Leche de Cabra",
+        "price": 19.99,
+        "stock": 50,
+        "sucursal": "Argentina"
+    }
+    
+]

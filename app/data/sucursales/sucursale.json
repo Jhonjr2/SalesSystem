@@ -1,0 +1,43 @@
+[
+    {
+        "sucursal": "Colombia",
+        "divisa": "CO"
+    },
+    {
+        "sucursal": "Argentina",
+        "divisa": "AR"
+    },
+    {
+        "sucursal": "Chile",
+        "divisa": "CLP"
+    },
+    {
+        "sucursal": "Peru",
+        "divisa": "PEN"
+    },
+    {
+        "sucursal": "Uruguay",
+        "divisa": "UYU"
+    },
+    {
+        "sucursal": "Mexico",
+        "divisa": "MXN"
+    },
+    {
+        "sucursal": "R. Dominicana",
+        "divisa": "RD"
+    },
+    {
+        "sucursal": "Bolivia",
+        "divisa": "BO"
+    },
+    {
+        "sucursal": "Brasil",
+        "divisa": "BR"
+    },
+    {
+        "sucursal": "Ecuador",
+        "divisa": "EC"
+    }
+    
+]
