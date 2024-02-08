@@ -133,29 +133,40 @@ const page = () => {
           </div>
           {showModal && (
             <div className="fixed inset-0 flex justify-center items-center bg-black bg-opacity-50">
-              <div className="bg-white p-8 rounded shadow-lg">
-                <AddUserForm onAddClient={handleAddClient} />
+              <div className="bg-white p-8 rounded shadow-lg relative">
                 <button
-                  className="bg-red-500 text-white px-6 py-2 rounded-lg font-bold mt-5"
+                  className="absolute top-0 right-0 mr-4 mt-4 text-gray-500 hover:text-gray-700"
                   onClick={() => setShowModal(false)}
                 >
-                  Cerrar
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-6 w-6"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M6 18L18 6M6 6l12 12"
+                    />
+                  </svg>
                 </button>
+                <AddUserForm onAddClient={handleAddClient} />
               </div>
             </div>
           )}
-
-
         </>
       ) : (
         <div className="flex flex-col justify-center p-10">
-        <div className="text-center text-red-600">
-          <p className="text-3xl font-bold mb-4">Error 401:</p>
-          <p className="text-xl mb-6">Unauthorized Access</p>
-          <p className="text-lg">You are not authorized to view this content. Please sign in to proceed.</p>
+          <div className="text-center text-red-600">
+            <p className="text-3xl font-bold mb-4">Error 401:</p>
+            <p className="text-xl mb-6">Unauthorized Access</p>
+            <p className="text-lg">You are not authorized to view this content. Please sign in to proceed.</p>
+          </div>
         </div>
-      </div>
-      
+
 
       )}
     </div>

@@ -16,9 +16,6 @@ const AddUserForm = ({ onAddClient }) => {
         telefono: ''
     });
 
-    // console.log('Estado actual de formData:', formData);
-
-
     const handleChange = (e) => {
         const { name, value } = e.target;
         if (name.includes('direccion')) {
@@ -56,14 +53,14 @@ const AddUserForm = ({ onAddClient }) => {
     };
 
     return (
-        <form onSubmit={handleSubmit} className="max-w-md mx-auto">
+        <form onSubmit={handleSubmit} className="max-w-md mx-auto flex flex-col gap-4 pl-5 pr-5">
             <input
                 type="text"
                 name="RUT"
                 value={formData.RUT}
                 onChange={handleChange}
                 placeholder="RUT"
-                className="input-field"
+                className="input-field border mt-6 pl-3 rounded"
             />
             <input
                 type="text"
@@ -71,7 +68,7 @@ const AddUserForm = ({ onAddClient }) => {
                 value={formData.nombre}
                 onChange={handleChange}
                 placeholder="Nombre"
-                className="input-field"
+                className="input-field border mt-4 pl-3 rounded"
             />
             <input
                 type="text"
@@ -79,7 +76,7 @@ const AddUserForm = ({ onAddClient }) => {
                 value={formData.apellido}
                 onChange={handleChange}
                 placeholder="Apellido"
-                className="input-field"
+                className="input-field border mt-4 pl-3 rounded"
             />
             <input
                 type="text"
@@ -87,7 +84,7 @@ const AddUserForm = ({ onAddClient }) => {
                 value={formData.direccion.calle}
                 onChange={handleChange}
                 placeholder="Calle"
-                className="input-field"
+                className="input-field border mt-4 pl-3 rounded"
             />
             <input
                 type="text"
@@ -95,7 +92,7 @@ const AddUserForm = ({ onAddClient }) => {
                 value={formData.direccion.numero}
                 onChange={handleChange}
                 placeholder="Número"
-                className="input-field"
+                className="input-field border mt-4 pl-3 rounded"
             />
             <input
                 type="text"
@@ -103,7 +100,7 @@ const AddUserForm = ({ onAddClient }) => {
                 value={formData.direccion.comuna}
                 onChange={handleChange}
                 placeholder="Comuna"
-                className="input-field"
+                className="input-field border mt-4 pl-3 rounded"
             />
             <input
                 type="text"
@@ -111,7 +108,7 @@ const AddUserForm = ({ onAddClient }) => {
                 value={formData.direccion.ciudad}
                 onChange={handleChange}
                 placeholder="Ciudad"
-                className="input-field"
+                className="input-field border mt-4 pl-3 rounded"
             />
             <input
                 type="text"
@@ -119,9 +116,9 @@ const AddUserForm = ({ onAddClient }) => {
                 value={formData.telefono}
                 onChange={handleChange}
                 placeholder="Teléfono"
-                className="input-field"
+                className="input-field border mt-4 pl-3 rounded"
             />
-            <button type="submit" className="btn-primary">Crear Cliente</button>
+            <button type="submit" className="bg-blue-500 text-white px-4 py-2.5 mt-6 mr-5 rounded hover:bg-blue-600">Crear Cliente</button>
         </form>
     );
 };
